@@ -5,6 +5,20 @@
     margin: 0;
 }
 
+/*General styling.*/
+body {
+    background-color: #d9dcd6;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
 /*This section is for the header.*/
 .header {
     padding: 20px;
@@ -40,11 +54,6 @@
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
 /*This section is for the jumbotron.*/
 .hero {
     height: 800px;
@@ -53,14 +62,6 @@ a {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-}
-
-body {
-    background-color: #d9dcd6;
-}
-
-p {
-    font-size: 16px;
 }
 
 /*This section is for the article tags and their content.*/
