@@ -37,6 +37,10 @@ The steps I took to coplete this challenge were:
    - Added **atl** atributes to **img** tags.
    - Cleared the 'div soup' by using semantic HTML tags.
 
+## Preview of the web site
+![Preview of the web site. Top section.](https://github.com/NicolasRojas-CENG/Code_Refactor-Accessibility/blob/9218a6041a472ea6ad89a920305a49e1d06ea846/assets/captures/Capture1.PNG "Preview of the web site. Top section.")
+![Preview of the web site. Bottom section.](https://github.com/NicolasRojas-CENG/Code_Refactor-Accessibility/blob/9218a6041a472ea6ad89a920305a49e1d06ea846/assets/captures/Capture2.PNG "Preview of the web site. Bottom section.")
+
 ## Completed web site
 ***
 [Click here to view the final result of the web page.](https://nicolasrojas-ceng.github.io/Code_Refactor-Accessibility/ "Horiseon Social Solution Services")
